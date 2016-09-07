@@ -1,0 +1,9 @@
+##how to download images from sharepoint
+.\allfiles.sh NAME_OF_FILE 
+
+##how to convert photos to binary
+the most important is to have both scripts in the folder
+the python script contains/is inside the (sh) bash script (so you need sh script)
+allfiles = everything that is in .jpg
+in terminal write:
+./allfiles.sh NAME_OF_FILE 
